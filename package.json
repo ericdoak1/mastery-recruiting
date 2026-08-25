@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "dependencies": {
+    "@elevenlabs/client": "^1.9.0",
+    "esbuild": "^0.25.0"
+  },
   "engines": {
     "node": ">=20"
   }
